@@ -1,0 +1,5 @@
+{
+  "name": "Veritas Lens",
+  "description": "A professional-grade forensic tool utilizing Gemini 1.5 Pro to detect AI-generated imagery through artifact analysis and texture consistency checks.",
+  "requestFramePermissions": []
+}
